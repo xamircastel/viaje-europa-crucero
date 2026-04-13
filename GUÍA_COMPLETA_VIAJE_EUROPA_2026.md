@@ -56,7 +56,71 @@
 
 ---
 
-## 🚢 CRUCERO POR EL MEDITERRÁNEO - MSC ORCHESTRA
+## � TREN INTERNO ESPAÑA - IRYO
+
+### 🚄 TREN MADRID → BARCELONA
+**Fecha:** 23 de Mayo 2026
+- **Compañía:** iryo
+- **Tren / Localizador:** 193TJ2
+- **Ruta:** Madrid-Puerta de Atocha → Barcelona-Sants
+- **Salida:** 18:32
+- **Llegada:** 21:35
+- **Tarifa:** Inicial
+- **Precio por persona:** 23.59 € / **Total:** 212.31 €
+
+#### 🎫 ASIENTOS Y PASAJEROS
+- **Xamir Castelblanco Quintero:** Coche 6, Asiento 16C
+- **Anny Peña:** Coche 6, Asiento 16D
+- **Oscar Julio Castelblanco Galindo:** Coche 6, Asiento 17A
+- **Martha Gladys Quintero Quintero:** Coche 6, Asiento 17B
+- **Luis Peña:** Coche 6, Asiento 17C
+- **Yolanda Caro:** Coche 6, Asiento 17D
+- **Marleny Sanchez:** Coche 6, Asiento 18A
+- **Sara Lucia:** Coche 6, Asiento 18B
+- **Ethan Samuel Castelblanco Peña:** Coche 6, Asiento 18C
+
+---
+## ✈️ VUELO INTERNO BARCELONA - ROMA (WIZZ AIR)
+
+### 🛫 BARCELONA → ROMA
+**Fecha:** 25 de Mayo 2026
+- **Vuelo:** W4 6022 (Wizz Air)
+- **Ruta:** Barcelona-El Prat Terminal 2 (BCN) → Roma Fiumicino Terminal 1 (FCO)
+- **Salida:** 22:50 - 25 Mayo 2026
+- **Llegada:** 0:45 - 26 Mayo 2026 (madrugada del martes)
+- **Confirmación:** TMDEKM
+- **Costo Total:** 326.01 EUR ($430.5 USD)
+
+#### 🧳 EQUIPAJE Y PASAJEROS
+- **Xamir Castelblanco Quintero:** 1 Equipaje de mano (40x30x20)
+- **Anni Peña Sanchez:** 1 Equipaje de mano (40x30x20) + 1 Maleta de Cabina (55x40x23)
+- **Luis Peña Duarte:** 1 Equipaje de mano (40x30x20) + 1 Maleta de Cabina (55x40x23)
+- **Marleny Sanchez Caro:** 1 Equipaje de mano (40x30x20) + 1 Maleta de Cabina (55x40x23)
+- **Oscar Castelblanco:** 1 Equipaje de mano (40x30x20)
+- **Martha Quintero Quintero:** 1 Equipaje de mano (40x30x20) + 1 Maleta de Cabina (55x40x23)
+- **Yolanda Caro Suarez:** 1 Equipaje de mano (40x30x20) + 1 Maleta de Cabina (55x40x23)
+- **Ethan Samuel Castelblanco:** 1 Equipaje de mano (40x30x20)
+- **Sara Lucia Castelblanco:** 1 Equipaje de mano (40x30x20)
+
+---
+## 🏨 ALOJAMIENTO EN FIUMICINO (TRÁNSITO AEROPUERTO)
+
+### 🛏️ HOTEL RIVER VIEW (BED & BREAKFAST)
+**Check-in:** Noche del 25 de Mayo (Llegada real: 01:00 - 02:00 AM del martes 26)
+**Check-out:** 26 de Mayo (09:30 - 10:00 AM)
+- **Dirección:** Via della Torre Clementina, 48, 00054 Fiumicino, Italia
+- **Teléfono:** +39 351 350 9105
+- **Costo Total:** 347.90 € (~$380 USD / 1.482.460 COP) - *Incluye IVA, cargos y el impuesto municipal de 4.50€ por persona.*
+- **Localizador Booking:** 6774.886.380 **PIN:** 1069
+- **Aviso importante enviado al alojamiento:** Tienen la confirmación (vía el correo xcastelblanco@gmail.com) de la llegada nocturna 1-2 AM. También se les solicitó apoyo con la cotización de un transporte (Transfer) de las 9 personas hacia Civitavecchia a las 10:00 AM. 
+
+#### 🚪 DISTRIBUCIÓN DE LAS 3 HABITACIONES
+- **Habitación Cuádruple Deluxe:** 1 Cama doble grande y 2 individuales (Para 3 adultos, 1 niño).
+- **Habitación Triple con vistas a la ciudad:** 1 Cama doble grande y 1 individual (Para 2 adultos, 1 niño).
+- **Habitación Doble Deluxe:** 1 Cama doble grande (Para 2 adultos).
+
+---
+## �🚢 CRUCERO POR EL MEDITERRÁNEO - MSC ORCHESTRA
 
 ### 📅 FECHAS DEL CRUCERO
 - **Salida:** 26 de Mayo 2026 - 19:00
@@ -128,13 +192,16 @@
 
 ## 🗓️ CRONOLOGÍA COMPLETA DEL VIAJE
 
-### FASE 1: LLEGADA A EUROPA
+### FASE 1: LLEGADA A EUROPA Y TRASLADO A BARCELONA
 - **22 Mayo:** Salida de Bogotá 12:35
-- **23 Mayo:** Llegada a Madrid 05:15 (madrugada)
-- **23-26 Mayo:** Madrid y alrededores (3 días libres)
+- **23 Mayo:** Llegada a Madrid 05:15 (madrugada). 
+- **23 Mayo:** Traslado en tren AVE/Iryo Madrid → Barcelona (Salida a las 18:32, Llegada a las 21:35)
+- **23-25 Mayo:** Estancia en Barcelona y alrededores (2 noches)
+- **25 Mayo:** Vuelo nocturno Wizz Air Barcelona → Roma (Salida a las 22:50, Llegada a las 00:45 del 26 Mayo)
 
 ### FASE 2: CRUCERO MEDITERRÁNEO
-- **26 Mayo:** Traslado a Roma, embarque crucero 19:00
+- **26 Mayo (madrugada):** Llegada al aeropuerto Fiumicino (00:45) y descanso en Hotel River View (Fiumicino).
+- **26 Mayo:** Transfer privado directo Fiumicino → Civitavecchia (Aprox 10:00 AM). Embarque crucero 19:00
 - **27 Mayo - 1 Junio:** Crucero por Italia, España, Francia
 - **2 Junio:** Desembarque Roma 07:00
 
@@ -206,7 +273,9 @@
 | **Crucero Padres Xamir** | Oscar Castelblanco | $2,212 | $8,848,000 | ✅ $2,212 | $0 |
 | **Crucero Luis Yony (2 pers)** | Luis Yony | $2,019 | $8,076,000 | $0 | $2,019 |
 | **Crucero Tía Yolanda (1 pers)** | Tía Yolanda | $1,010 | $4,040,000 | $0 | $1,010 |
-| | | **$14,134** | **$56,536,000** | **$5,529** | **$8,605** |
+| **Vuelo BCN-FCO (Wizz Air)** | Xamir (Pagador) | $430.5 | $1,616,527 | ✅ $430.5 | $0 |
+| **Hotel River View (Fiumicino)** | Pendiente Asignar | $380 | $1,482,460 | $0 | $380 |
+| | | **$14,944.5** | **$59,634,987** | **$5,959.5** | **$8,985** |
 
 *Xamir adelantó $606 del 20% del camarote familia Anni, pendiente reembolso de Tía Yolanda
 
@@ -303,6 +372,15 @@
 - **Xamir:** 075-2531044809
 - **Oscar Julio:** 075-2531044809
 - **Martha Gladys:** 075-2531044810
+
+### RESERVAS TREN IRYO
+- **193TJ2:** Tren Madrid-Barcelona (23 Mayo 2026) - Todos los 9 pasajeros
+
+### RESERVA VUELO WIZZ AIR (BARCELONA-ROMA)
+- **TMDEKM:** Vuelo W4 6022 BCN-FCO (25 Mayo 2026) - Todos los 9 pasajeros
+
+### RESERVA HOTEL FIUMICINO (RIVER VIEW)
+- **6774.886.380 / PIN 1069:** Noche del 25 al 26 Mayo (3 habitaciones para 9 personas)
 
 ### RESERVAS CRUCERO
 - **181209823:** Familia nuclear (4 personas)
