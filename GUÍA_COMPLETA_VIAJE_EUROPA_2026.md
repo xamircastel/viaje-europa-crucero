@@ -119,8 +119,19 @@
 - **Habitación Triple con vistas a la ciudad:** 1 Cama doble grande y 1 individual (Para 2 adultos, 1 niño).
 - **Habitación Doble Deluxe:** 1 Cama doble grande (Para 2 adultos).
 
----
-## �🚢 CRUCERO POR EL MEDITERRÁNEO - MSC ORCHESTRA
+---## 🚐 TRASLADO PRIVADO FIUMICINO - CIVITAVECCHIA (PUERTO)
+
+### 🚐 ROME CABCO (2 MINIVANS)
+**Fecha de recogida:** 26 de Mayo 2026
+**Hora de recogida:** 10:00 AM
+- **Origen:** Hotel River View (Via della Torre Clementina, 48, Fiumicino)
+- **Destino:** Cruise Terminal, Civitavecchia (MSC Orchestra)
+- **Vehículos:** 2 Minivans (Max 6 pasajeros y 6 maletas cada una)
+- **ID de Reserva:** Booking 1550 (A nombre de Xamir Castelblanco)
+- **Costo Total:** 389.54 € (~$425 USD)
+- **Estado de Pago:** 50% pagado online (194.77 €) / 50% restante (194.77 €) se paga al conductor con tarjeta de crédito el día del servicio.
+
+---## �🚢 CRUCERO POR EL MEDITERRÁNEO - MSC ORCHESTRA
 
 ### 📅 FECHAS DEL CRUCERO
 - **Salida:** 26 de Mayo 2026 - 19:00
@@ -275,7 +286,8 @@
 | **Crucero Tía Yolanda (1 pers)** | Tía Yolanda | $1,010 | $4,040,000 | $0 | $1,010 |
 | **Vuelo BCN-FCO (Wizz Air)** | Xamir (Pagador) | $430.5 | $1,616,527 | ✅ $430.5 | $0 |
 | **Hotel River View (Fiumicino)** | Pendiente Asignar | $380 | $1,482,460 | $0 | $380 |
-| | | **$14,944.5** | **$59,634,987** | **$5,959.5** | **$8,985** |
+| **Bans Fiumicino-Civitavecchia** | Xamir (Pagador) | $425 | $1,595,875 | ✅ $212.5 | $212.5 |
+| **TOTAL GENERAL** | | **$15,369.5** | **$61,230,862** | **$6,172** | **$9,197.5** |
 
 *Xamir adelantó $606 del 20% del camarote familia Anni, pendiente reembolso de Tía Yolanda
 
@@ -328,7 +340,9 @@
 - Vuelos familia nuclear: $2,510 USD ($10,040,000 COP) ✅
 - Adelanto 20% crucero padres: $442 USD ($1,768,000 COP) ✅
 - Adelanto 20% crucero familia Anni: $606 USD ($2,424,000 COP) ✅ (con su dinero, Tía Yolanda reembolsará)
-- **Total pagado por Xamir:** $3,558 USD ($14,232,000 COP)
+- Vuelo BCN-FCO Wizz Air: $430.5 USD ($1,616,527 COP) ✅
+- 50% Vans Fiumicino-Civitavecchia: $212.5 USD ($797,938 COP) ✅
+- **Total pagado por Xamir:** $4,201 USD ($16,646,465 COP)
 
 **Por Anni:**
 - Vuelos padres de Xamir: $1,300 USD ($5,200,000 COP) ✅
