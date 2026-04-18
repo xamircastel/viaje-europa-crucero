@@ -227,26 +227,33 @@
 
 ---
 
-## 📍 SUGERENCIAS DE DESTINOS POST-CRUCERO
+## 🗺️ FASE 3: ITINERARIO Y ALOJAMIENTOS POST-CRUCERO
 
-### 🇮🇹 ITALIA (2-3 días)
-- **Roma:** Coliseo, Vaticano, Fontana di Trevi
-- **Florencia:** Uffizi, Ponte Vecchio, Duomo
-- **Transporte:** Tren de alta velocidad Roma-Florencia
+### 🇮🇹 ROMA (2 al 4 de Junio)
+**Alojamiento: Appartamento al Vaticano**
+- **Check-in:** 2 de Junio 2026 (15:00 - 21:00)
+- **Check-out:** 4 de Junio 2026 (09:00 - 09:30)
+- **Dirección:** 87 Via Angelo Emo, Trionfale, 00136 Roma, Italia
+- **Reserva Booking:** 665.115.4208 / **PIN:** 3824
+- **Alojamiento:** Apartamento de 3 dormitorios (Para 7 adultos y 2 niños)
+- **Costo Total:** 590 € (~ USD o .400.000 COP) - *Incluye impuestos, IVA y limpieza*.
+- **Contacto Anfitrión:** +39 3508 777 690
+- **Estado:** Garantizado con tarjeta. Pendiente cobro por adelantado (aprox.  USD).
 
-### 🇫🇷 FRANCIA (2-3 días)
-- **París:** Torre Eiffel, Louvre, Arco del Triunfo
-- **Transporte:** Vuelo Roma-París o tren
-- **Alojamiento:** Zona Marais o Montmartre
+### 🇮🇹 VENECIA (4 al 6 de Junio)
+**Alojamiento: Anda Venice Hostel**
+- **Check-in:** 4 de Junio 2026
+- **Check-out:** 6 de Junio 2026
+- **Dirección:** Via Ortigara, 10, 30171 Venezia Mestre, Italia
+- **Reserva Booking:** 630.748.8872 / Confirmación: 159877
+- **Alojamiento:** Habitación Privada de 9 (Early Booking 30 RO)
+- **Costo Total:** 459.28 € (.842.665 COP o ~ USD). *City tax de €1.40 pp/noche se paga extra al llegar*.
+- **Estado:** ✅ 100% Pagado el 18 Abr 2026. Pagador: Xamir (Tarjeta *6039).
+- **Contacto Hostal:** +39 041 862 2291 / info@andavenice.com
 
-### 🇪🇸 ESPAÑA (2-3 días)
-- **Barcelona:** Sagrada Familia, Park Güell, Las Ramblas
-- **Madrid:** Prado, Retiro, Puerta del Sol
-- **Transporte:** Tren París-Barcelona, AVE Barcelona-Madrid
-
-### 🇳🇱 PAÍSES BAJOS (1-2 días)
-- **Amsterdam:** Canales, Museo Van Gogh, Jordaan
-- **Transporte:** Vuelo París/Barcelona-Amsterdam
+---
+### ⏳ DEL 6 AL 10 DE JUNIO: PENDIENTES
+- Quedan **4 noches libres** por organizar hasta el vuelo de regreso desde Madrid el 10 de Junio a las 12:10 PM.
 
 ---
 
