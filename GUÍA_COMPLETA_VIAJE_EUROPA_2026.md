@@ -166,9 +166,10 @@
 - **Costo:** $3,029 USD
 
 ### 📋 NÚMEROS DE RESERVA CRUCERO
-- **Reserva 1:** 181209823 (Familia nuclear - 4 personas)
-- **Reserva 2:** 181211382 (Padres de Xamir - 2 personas)
-- **Reserva 3:** 181627043 (Familia de Anni - 3 personas)
+*(Nota: El proveedor cruceros.com manejó números de presupuesto, pero los números oficiales para la App de MSC Cruceros son los siguientes):*
+- **Cabina 1 (Familia nuclear):** MSC Reserva **69313727** *(Presupuesto agencia: 181209823)*
+- **Cabina 2 (Padres de Xamir):** MSC Reserva **69313854** *(Presupuesto agencia: 181211382)*
+- **Cabina 3 (Familia de Anni):** MSC Reserva **69316844** *(Presupuesto agencia: 181627043)*
 
 ### 💰 COSTO TOTAL CRUCERO
 - **Total:** $8,374 USD
@@ -431,9 +432,10 @@
 ### RESERVA HOTEL FIUMICINO (RIVER VIEW)
 - **6774.886.380 / PIN 1069:** Noche del 25 al 26 Mayo (3 habitaciones para 9 personas)
 
-### RESERVAS CRUCERO
-- **181209823:** Familia nuclear (4 personas)
-- **181211382:** Padres de Xamir (2 personas)
+### RESERVAS CRUCERO (APP MSC)
+- **69313727:** Familia nuclear (4 personas)
+- **69313854:** Padres de Xamir (2 personas)
+- **69316844:** Familia de Anni (3 personas)
 
 ---
 
