@@ -229,6 +229,17 @@
 
 ## 🗺️ FASE 3: ITINERARIO Y ALOJAMIENTOS POST-CRUCERO
 
+### 🚄 TREN CIVITAVECCHIA → ROMA
+**Fecha:** 2 de Junio 2026
+- **Compañía:** Trenitalia (ItaliaTren)
+- **Código de Referencia:** 2293968
+- **Ruta:** Civitavecchia → Roma
+- **Salida:** 11:42
+- **Llegada:** 12:26 (Duración: 44m)
+- **Pasajeros:** 7 adultos, 2 niños
+- **Costo Total:** 42.96 € (~ USD / ,690 COP)
+- **Pagador:** Xamir Francisco Castelblanco
+
 ### 🇮🇹 ROMA (2 al 4 de Junio)
 **Alojamiento: Appartamento al Vaticano**
 - **Check-in:** 2 de Junio 2026 (15:00 - 21:00)
