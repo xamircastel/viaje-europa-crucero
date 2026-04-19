@@ -247,9 +247,26 @@
 - **Dirección:** 87 Via Angelo Emo, Trionfale, 00136 Roma, Italia
 - **Reserva Booking:** 665.115.4208 / **PIN:** 3824
 - **Alojamiento:** Apartamento de 3 dormitorios (Para 7 adultos y 2 niños)
-- **Costo Total:** 590 € (~ USD o .400.000 COP) - *Incluye impuestos, IVA y limpieza*.
-- **Contacto Anfitrión:** +39 3508 777 690
-- **Estado:** Garantizado con tarjeta. Pendiente cobro por adelantado (aprox.  USD).
+- **Costo Total:** 590 € (~ USD / 2.400.000 COP) - *Incluye impuestos, IVA y limpieza*. El impuesto municipal de 6€/noche pp se paga extra.
+- **Estado:** Reserva confirmada con tarjeta, pendiente de pago (el host puede realizar el cobro en cualquier momento).
+- **Contacto:** +39 350 877 7690
+
+---
+
+### 🚄 TREN ROMA → VENECIA
+**Fecha:** 4 de Junio 2026
+- **Compañía:** Italo (Alta Velocidad)
+- **Tren:** 8922
+- **Clase:** Smart
+- **Código PNR:** XFL8GJ
+- **Ruta:** Roma Termini → Venezia Mestre
+- **Salida:** 17:55
+- **Llegada:** 21:42 (Duración: 3h 47m)
+- **Asientos (Coche 7):** Sillas de la 41 a la 49 (para los 9 pasajeros).
+- **Costo Total:** 296.10 € (.31 USD / ,281,143 COP)
+- **Estado:** ✅ 100% Pagado el 19 Abr 2026 por Xamir (Tarjeta Bancolombia *6039).
+
+---
 
 ### 🇮🇹 VENECIA (4 al 6 de Junio)
 **Alojamiento: Anda Venice Hostel**
