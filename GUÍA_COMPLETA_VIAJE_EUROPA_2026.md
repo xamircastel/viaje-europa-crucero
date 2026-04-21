@@ -281,8 +281,21 @@
 - **Contacto Hostal:** +39 041 862 2291 / info@andavenice.com
 
 ---
+### 🇫🇷 FRANCIA (6 al 8/9 de Junio)
+
+#### ✈️ VUELO VENECIA → PARÍS (Sábado, 6 de Junio)
+- **Reserva (PNR):** `K4XDW8D` (Vuelo easyJet U2 4022)
+- **Ruta:** Venecia Marco Polo (VCE) → París Charles de Gaulle (CDG)
+- **Salida:** 20:30 hrs
+- **Llegada:** 22:25 hrs
+- **Tarifa:** Standard Plus (Incluye Asiento Up Front + Speedy Boarding)
+- **Equipaje Incluido:** 1 pieza pequeña bajo asiento (45x36x20cm) + 1 Maleta de cabina grande (56x45x25cm)
+- **Costo Total:** $2.220.565 COP (Aprox. $591 USD).
+- **Estado:** ✅ 100% Pagado el 20 Abr 2026. Pagador: Xamir (Tarjeta de crédito).
+
+---
 ### ⏳ DEL 6 AL 10 DE JUNIO: PENDIENTES
-- Quedan **4 noches libres** por organizar hasta el vuelo de regreso desde Madrid el 10 de Junio a las 12:10 PM.
+- Quedan **noches libres** por organizar en París (Alojamiento) y traslado de París a Madrid antes del vuelo de regreso el 10 de Junio a las 12:10 PM.
 
 ---
 
@@ -323,7 +336,8 @@
 | **Vuelo BCN-FCO (Wizz Air)** | Xamir (Pagador) | $430.5 | $1,616,527 | ✅ $430.5 | $0 |
 | **Hotel River View (Fiumicino)** | Pendiente Asignar | $380 | $1,482,460 | $0 | $380 |
 | **Bans Fiumicino-Civitavecchia** | Xamir (Pagador) | $425 | $1,595,875 | ✅ $212.5 | $212.5 |
-| **TOTAL GENERAL** | | **$15,369.5** | **$61,230,862** | **$6,172** | **$9,197.5** |
+| **Vuelo easyJet VCE-CDG** | Xamir (Pagador) | $591 | $2,220,565 | ✅ $591 | $0 |
+| **TOTAL GENERAL** | | **$15,960.5** | **$63,451,427** | **$6,763** | **$9,197.5** |
 
 *Xamir adelantó $606 del 20% del camarote familia Anni, pendiente reembolso de Tía Yolanda
 
