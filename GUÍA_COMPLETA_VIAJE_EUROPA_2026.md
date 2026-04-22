@@ -333,11 +333,24 @@
 | **Crucero Padres Xamir** | Oscar Castelblanco | $2,212 | $8,848,000 | ✅ $2,212 | $0 |
 | **Crucero Luis Yony (2 pers)** | Luis Yony | $2,019 | $8,076,000 | $0 | $2,019 |
 | **Crucero Tía Yolanda (1 pers)** | Tía Yolanda | $1,010 | $4,040,000 | $0 | $1,010 |
-| **Vuelo BCN-FCO (Wizz Air)** | Xamir (Pagador) | $430.5 | $1,616,527 | ✅ $430.5 | $0 |
-| **Hotel River View (Fiumicino)** | Pendiente Asignar | $380 | $1,482,460 | $0 | $380 |
-| **Bans Fiumicino-Civitavecchia** | Xamir (Pagador) | $425 | $1,595,875 | ✅ $212.5 | $212.5 |
-| **Vuelo easyJet VCE-CDG** | Xamir (Pagador) | $591 | $2,220,565 | ✅ $591 | $0 |
-| **TOTAL GENERAL** | | **$15,960.5** | **$63,451,427** | **$6,763** | **$9,197.5** |
+| **TOTAL TICKETES/CRUCERO** | | **$14,136** | **$56,544,000** | **$11,107** | **$3,029** |
+
+### 🚆 COSTOS LOGÍSTICOS INTERNOS Y ALOJAMIENTOS (EN COP)
+
+*(Nota: Todos los gastos europeos logísticos internos, calculados para las 9 personas según tarjeta pagadora)*
+
+| **Fecha de Compra** | **Concepto / Servicio** | **Ruta / Ubicación** | **Costo (€/$)** | **Monto Cargado (COP)** | **Estado del Pago** |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **10 Abr 2026** | **Tren AVE/Iryo** | Madrid → Barcelona | 212.31 € | **~$830.000 COP** | ✅ Pagado 100% online |
+| **11 Abr 2026** | **Vuelo Wizz Air** | Barcelona → Fiumicino | 326.01 € | **$1.616.527 COP** | ✅ Cobrado (100%) |
+| **12 Abr 2026** | **Hotel River View** | Fiumicino | 347.90 € | **$1.482.460 COP** * | ⏳ Reserva lista / Pagar allá |
+| **17 Abr 2026** | **2 Vans Privadas** | Fiumici → Civitavecchia | $425 USD | **$1.595.875 COP** * | ✅ 50% pagado / 50% allá |
+| **18 Abr 2026** | **Trenitalia** | Civitavecchia → Roma | 42.96 € | **$189.731 COP** | ✅ Cobrado (100%) |
+| **18 Abr 2026** | **Apartamento** | Roma | 590.00 € | **$2.400.000 COP** * | ⏳ Reserva lista / Pagar allá |
+| **18 Abr 2026** | **Anda Venice Hostel** | Venecia | 459.28 € | **$1.842.665 COP** | ✅ Cobrado (100%) |
+| **19 Abr 2026** | **Tren Italo** | Roma → Venecia | 296.10 € | **$1.281.143 COP** | ✅ Cobrado (100%) |
+| **20 Abr 2026** | **Vuelo easyJet** | Venecia → París |  -  | **$2.220.565 COP** | ✅ Cobrado (100%) |
+| | **TOTAL EST. INTERNO** | | | **$13.458.966 COP** | |
 
 *Xamir adelantó $606 del 20% del camarote familia Anni, pendiente reembolso de Tía Yolanda
 
