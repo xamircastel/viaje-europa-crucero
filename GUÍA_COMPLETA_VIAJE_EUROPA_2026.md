@@ -103,6 +103,21 @@
 - **Sara Lucia Castelblanco:** 1 Equipaje de mano (40x30x20)
 
 ---
+## 🛌 ALOJAMIENTO EN BARCELONA (BADALONA)
+
+### 🏘️ GRAN CASA AL LADO DE LA PLAYA Y BARCELONA CENTRO
+- **Fechas:** 23 al 25 de Mayo (2 noches)
+- **Check-in:** 23 de Mayo 2026 (Entre las 16:00 y 00:00). **Aviso:** Llegar después de las 22:00 tiene recargo de 50 EUR en efectivo (Llegada tren a Sants: 21:35).
+- **Check-out:** 25 de Mayo 2026 (Entre las 10:00 y 11:00 AM).
+- **Dirección:** Av. Martí Pujol, 187, 08912 Badalona, España (a pasos del Tren 'Badalona' y Metro L2 'Badalona Pompeu Fabra').
+- **Contacto:** +34 636 04 25 34
+- **Reserva Booking:** 5865.972.089 / **PIN:** 0186
+- **Detalle Alojamiento:** Casa de 5 dormitorios para 9 personas.
+- **Costo Booking:** 1.299 EUR (~$5.460.980 COP).
+- **Advertencia Depósito:** OJO, cobran depósito de 500 EUR 7 días antes de la llegada al TC y devuelven 7 días después.
+- **Estado del Pago:** ⏳ Pendiente de cobrar tarjeta.
+
+---
 ## 🏨 ALOJAMIENTO EN FIUMICINO (TRÁNSITO AEROPUERTO)
 
 ### 🛏️ HOTEL RIVER VIEW (BED & BREAKFAST)
