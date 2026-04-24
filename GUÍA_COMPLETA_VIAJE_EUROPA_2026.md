@@ -113,19 +113,17 @@
 - **Contacto:** +34 636 04 25 34
 - **Reserva Booking:** 5865.972.089 / **PIN:** 0186
 - **Detalle Alojamiento:** Casa de 5 dormitorios para 9 personas.
-- **Costo Booking:** 1.299 EUR (~$5.460.980 COP).
-- **Advertencia Depósito:** OJO, cobran depósito de 500 EUR 7 días antes de la llegada al TC y devuelven 7 días después.
-- **Estado del Pago:** ⏳ Pendiente de cobrar tarjeta.
-
----
-## 🏨 ALOJAMIENTO EN FIUMICINO (TRÁNSITO AEROPUERTO)
+  - **Costo Booking:** **$5.414.182 COP** (Aprox. 1.299 EUR).
+  - **Advertencia Depósito:** OJO, cobran depósito de 500 EUR 7 días antes de la llegada al TC y devuelven 7 días después.
+  - **Estado del Pago:** ✅ 100% Cobrado el 21 Abr 2026 (Comprobante SMS Bancolombia).
 
 ### 🛏️ HOTEL RIVER VIEW (BED & BREAKFAST)
 **Check-in:** Noche del 25 de Mayo (Llegada real: 01:00 - 02:00 AM del martes 26)
 **Check-out:** 26 de Mayo (09:30 - 10:00 AM)
 - **Dirección:** Via della Torre Clementina, 48, 00054 Fiumicino, Italia
 - **Teléfono:** +39 351 350 9105
-- **Costo Total:** 347.90 € (~$380 USD / 1.482.460 COP) - *Incluye IVA, cargos y el impuesto municipal de 4.50€ por persona.*
+- **Costo Pagado Hoy:** **$1.327.836 COP** (Pagado por Booking el 12/04/2026 a las 21:34).
+- **Pendiente en Destino:** Solo el impuesto municipal de **4.50€ por persona** (40.50 EUR total) se paga en efectivo/tarjeta allá.
 - **Localizador Booking:** 6774.886.380 **PIN:** 1069
 - **Aviso importante enviado al alojamiento:** Tienen la confirmación (vía el correo xcastelblanco@gmail.com) de la llegada nocturna 1-2 AM. También se les solicitó apoyo con la cotización de un transporte (Transfer) de las 9 personas hacia Civitavecchia a las 10:00 AM. 
 
@@ -317,9 +315,9 @@
 - **Contacto:** +33 6 95 68 22 42
 - **Reserva Booking:** 6151.403.070 / **PIN:** 2612
 - **Detalle Alojamiento:** Apartamento de 2 dormitorios para 9 personas.
-- **Costo Exacto Cargado:** **$3.772.480 COP** (~ 902.90 EUR).
+- **Costo Total:** **~ 902.00 EUR** (~$3.770.000 COP).
 - **Advertencia Depósito:** OJO, exigen un depósito por daños de 600 EUR (~$2.506.893 COP) a la llegada con Tarjeta de Crédito. Reembolsable 14 días post-checkout.
-- **Estado del Pago:** ✅ 100% Cobrado por adelantado.
+- **Estado del Pago:** ⏳ Pendiente de pago mediante el enlace enviado por el anfitrión (Société Générale) por el chat de Booking.
 
 ---
 #### ✈️ VUELO PARÍS → MADRID (Martes, 9 de Junio)
@@ -395,18 +393,18 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **10 Abr 2026** | **Tren AVE/Iryo** | Madrid → Barcelona | 212.31 € | **~$830.000 COP** | ✅ Pagado 100% online |
 | **11 Abr 2026** | **Vuelo Wizz Air** | Barcelona → Fiumicino | 326.01 € | **$1.616.527 COP** | ✅ Cobrado (100%) |
-| **12 Abr 2026** | **Hotel River View** | Fiumicino | 347.90 € | **$1.482.460 COP** * | ⏳ Reserva lista / Pagar allá |
+| **12 Abr 2026** | **Hotel River View** | Fiumicino | 307.40 € | **$1.327.837 COP** | ✅ Cobrado (100% Cuartos) / Impuestos Allá |
 | **17 Abr 2026** | **2 Vans Privadas** | Fiumici → Civitavecchia | $425 USD | **$1.595.875 COP** * | ✅ 50% pagado / 50% allá |
 | **18 Abr 2026** | **Trenitalia** | Civitavecchia → Roma | 42.96 € | **$189.731 COP** | ✅ Cobrado (100%) |
 | **18 Abr 2026** | **Apartamento** | Roma | 590.00 € | **$2.400.000 COP** * | ⏳ Reserva lista / Pagar allá |
 | **18 Abr 2026** | **Anda Venice Hostel** | Venecia | 459.28 € | **$1.842.665 COP** | ✅ Cobrado (100%) |
 | **19 Abr 2026** | **Tren Italo** | Roma → Venecia | 296.10 € | **$1.281.143 COP** | ✅ Cobrado (100%) |
 | **20 Abr 2026** | **Vuelo easyJet** | Venecia → París |  -  | **$2.220.565 COP** | ✅ Cobrado (100%) |
-| **21 Abr 2026** | **Casa Badalona** | Barcelona | 1.299 € | **$5.460.980 COP** * | ⏳ Reserva lista / Pagar allá |
-| **23 Abr 2026** | **Apt Tour Eiffel** | París |  902.90 € | **$3.772.480 COP** | ✅ Cobrado adelantado 100% |
+| **21 Abr 2026** | **Casa Badalona** | Barcelona | 1.299 € | **$5.414.182 COP** | ✅ Cobrado (100% el 21 Abr) |
+  | **23 Abr 2026** | **Apt Tour Eiffel** | París |  902.00 € | **~$3.770.000 COP** * | ⏳ Pendiente pago x enlace al Host |
   | **23 Abr 2026** | **Vuelo Ryanair** | París → Madrid | 529.73 € | **$2.405.373 COP** | ✅ Cobrado (100%) |
   | **23 Abr 2026** | **Apto Hello Home** | Madrid (Hortaleza) | 185.87 € | **$776.600 COP** | ⏳ Reserva lista / Cancelación no reembolsable |
-  | | **TOTAL EST. INTERNO** | | | **$25.874.399 COP** | |
+  | | **TOTAL EST. INTERNO** | | | **$25.672.978 COP** | |
 
 #### 💸 QUIEN LE DEBE A QUIEN
 
