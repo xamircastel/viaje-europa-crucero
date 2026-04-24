@@ -296,7 +296,7 @@
 - **Contacto Hostal:** +39 041 862 2291 / info@andavenice.com
 
 ---
-### 🇫🇷 FRANCIA (6 al 8/9 de Junio)
+### 🇫🇷 FRANCIA (6 al 9 de Junio)
 
 #### ✈️ VUELO VENECIA → PARÍS (Sábado, 6 de Junio)
 - **Reserva (PNR):** `K4XDW8D` (Vuelo easyJet U2 4022)
@@ -308,13 +308,50 @@
 - **Costo Total:** $2.220.565 COP (Aprox. $591 USD).
 - **Estado:** ✅ 100% Pagado el 20 Abr 2026. Pagador: Xamir (Tarjeta de crédito).
 
----
-### ⏳ DEL 6 AL 10 DE JUNIO: PENDIENTES
-- Quedan **noches libres** por organizar en París (Alojamiento) y traslado de París a Madrid antes del vuelo de regreso el 10 de Junio a las 12:10 PM.
+#### 🛌 ALOJAMIENTO EN PARÍS (Distrito 15)
+### 🏘️ TOUR EIFFEL CROIX NIVERT PARIS
+- **Fechas:** 6 al 9 de Junio (3 noches)
+- **Check-in:** 6 de Junio 2026 (Entre las 16:00 y 23:00). **Aviso enviado al host:** Llegada de 22:00 a 23:00 hrs.
+- **Check-out:** 9 de Junio 2026 (Entre las 03:00 y 11:00 AM).
+- **Dirección:** 130 Rue de la Croix Nivert, 75015 París, Francia.
+- **Contacto:** +33 6 95 68 22 42
+- **Reserva Booking:** 6151.403.070 / **PIN:** 2612
+- **Detalle Alojamiento:** Apartamento de 2 dormitorios para 9 personas.
+- **Costo Exacto Cargado:** **$3.772.480 COP** (~ 902.90 EUR).
+- **Advertencia Depósito:** OJO, exigen un depósito por daños de 600 EUR (~$2.506.893 COP) a la llegada con Tarjeta de Crédito. Reembolsable 14 días post-checkout.
+- **Estado del Pago:** ✅ 100% Cobrado por adelantado.
 
 ---
+#### ✈️ VUELO PARÍS → MADRID (Martes, 9 de Junio)
+- **Reserva (PNR):** `U4NS2A` (Vuelo Ryanair FR5445)
+- **Ruta:** París (Beauvais) (BVA) → Madrid Barajas (MAD)
+- **Salida:** 15:25 hrs
+- **Llegada:** 17:35 hrs
+- **Asientos Asignados:** Anni (24A), Sara (24B), Ethan (24C). Los demás pendientes o aleatorios.
+- **Equipaje Facturado de 10 kg:** 5 Maletas pagas (Anni, Luis Yoni, Marleny, Yolanda, Martha Gladys).
+- **Costo Total:** **$2.405.373 COP** (529.73 EUR). Tasa de cambio: 4540.75 COP/EUR.
+- **Estado:** ✅ 100% Pagado el 23 Abr 2026 (Tarjeta Visa terminada en 6039).
 
-## 📞 CONTACTOS IMPORTANTES
+---
+### 🇪🇸 ESPAÑA: FINAL DEL VIAJE (Alojamiento en Madrid)
+
+#### 🛌 ALOJAMIENTO EN MADRID (Hortaleza - Cerca a Barajas)
+### 🏘️ HELLO HOME CANILLAS
+- **Fechas:** 9 al 10 de Junio (1 noche)
+- **Check-in:** 9 de Junio 2026 (Desde las 15:00). **Aviso enviado al host:** Llegada aproximada entre 22:00 y 23:00 hrs.
+- **Check-out:** 10 de Junio 2026 (Hasta las 11:00 AM).
+- **Dirección:** 18 Calle de Alejandro Villegas, Hortaleza, 28043 Madrid, España.
+- **Contacto:** +34 654 08 51 40
+- **Reserva Booking:** 6154.028.340 / **PIN:** 9623
+- **Detalle Alojamiento:** Apartamento de 2 dormitorios privado en planta baja para 9 personas.
+- **Costo Total:** **$776.600 COP** (~ 185.87 EUR), incluye IVA y suplemento de limpieza.
+- **Estado de Cancelación:** ⚠️ Estricto (No reembolsable).
+
+---
+### ⏳ PENDIENTE FINAL ÚNICO
+- **Bus a Beauvais:** Falta organizar el traslado (y comprar los boletos del bus o transporte) desde París (Distrito 15) hasta el aeropuerto de Beauvais (BVA) para la mañana del 9 de junio.
+
+---
 
 ### CRUCEROS
 - **Agente:** Monica
@@ -365,11 +402,11 @@
 | **18 Abr 2026** | **Anda Venice Hostel** | Venecia | 459.28 € | **$1.842.665 COP** | ✅ Cobrado (100%) |
 | **19 Abr 2026** | **Tren Italo** | Roma → Venecia | 296.10 € | **$1.281.143 COP** | ✅ Cobrado (100%) |
 | **20 Abr 2026** | **Vuelo easyJet** | Venecia → París |  -  | **$2.220.565 COP** | ✅ Cobrado (100%) |
-| | **TOTAL EST. INTERNO** | | | **$13.458.966 COP** | |
-
-*Xamir adelantó $606 del 20% del camarote familia Anni, pendiente reembolso de Tía Yolanda
-
-### 🔄 DEUDAS Y REEMBOLSOS PENDIENTES
+| **21 Abr 2026** | **Casa Badalona** | Barcelona | 1.299 € | **$5.460.980 COP** * | ⏳ Reserva lista / Pagar allá |
+| **23 Abr 2026** | **Apt Tour Eiffel** | París |  902.90 € | **$3.772.480 COP** | ✅ Cobrado adelantado 100% |
+  | **23 Abr 2026** | **Vuelo Ryanair** | París → Madrid | 529.73 € | **$2.405.373 COP** | ✅ Cobrado (100%) |
+  | **23 Abr 2026** | **Apto Hello Home** | Madrid (Hortaleza) | 185.87 € | **$776.600 COP** | ⏳ Reserva lista / Cancelación no reembolsable |
+  | | **TOTAL EST. INTERNO** | | | **$25.874.399 COP** | |
 
 #### 💸 QUIEN LE DEBE A QUIEN
 
