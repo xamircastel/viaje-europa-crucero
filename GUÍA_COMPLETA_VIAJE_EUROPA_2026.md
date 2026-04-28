@@ -256,14 +256,48 @@
 
 ### 🇮🇹 ROMA (2 al 4 de Junio)
 **Alojamiento: Appartamento al Vaticano**
-- **Check-in:** 2 de Junio 2026 (15:00 - 21:00)
+- **Check-in:** 2 de Junio 2026 (15:00 - 21:00). **Aviso de llegada enviado:** 12:00 - 13:00 hrs.
 - **Check-out:** 4 de Junio 2026 (09:00 - 09:30)
 - **Dirección:** 87 Via Angelo Emo, Trionfale, 00136 Roma, Italia
-- **Reserva Booking:** 665.115.4208 / **PIN:** 3824
+- **Reserva Booking:** 6651.154.208 / **PIN:** 3824
 - **Alojamiento:** Apartamento de 3 dormitorios (Para 7 adultos y 2 niños)
-- **Costo Total:** 590 € (~ USD / 2.400.000 COP) - *Incluye impuestos, IVA y limpieza*. El impuesto municipal de 6€/noche pp se paga extra.
-- **Estado:** Reserva confirmada con tarjeta, pendiente de pago (el host puede realizar el cobro en cualquier momento).
-- **Contacto:** +39 350 877 7690
+- **Costo Booking:** **$2.465.120 COP** (590,00 EUR) - *Incluye IVA y el suplemento de limpieza. Ya incluye el impuesto municipal de aprox 401.120 COP ($44.57 EUR).*
+- **Estado:** ⏳ Pendiente. **Atención:** Las políticas indican *"Se te cargará por adelantado el importe total en cualquier momento. El anfitrión hará el cargo en la tarjeta que indicaste"*. Es No Reembolsable.
+- **Contacto:** +39 350 895 0463
+
+### 🏛️ ACTIVIDADES EN PARÍS
+
+**Visita al Museo del Louvre**
+- **Fecha y Hora:** Domingo, 7 de junio de 2026, a las 10:30 hrs.
+- **Actividad:** Acceso a Colecciones Permanentes.
+- **Reservas:** V26078963442 y V26078963445.
+- **Incluye:** 7 Adultos (Tarifa Plena), 1 Niño (Sara, Gratis). Ethan no requiere ticket.
+- **Lugar de encuentro:** Pirámide del Louvre o Carrusel.
+- **Costo Total:** **\.497 COP** (Suma de \.713 y \.784).
+- **Estado:** ✅ 100% Pagado el 27 Abr 2026 (Comprobantes Bancolombia).
+
+---
+
+### 🏛️ ACTIVIDADES EN ROMA
+
+**Visita a los Museos Vaticanos y Capilla Sixtina (GetYourGuide)**
+- **Fecha y Hora:** Miércoles, 3 de junio de 2026, a las 11:30 hrs.
+- **Actividad:** Vaticano: Museos y Capilla Sixtina Ticket de entrada
+- **Reserva (Código):** GYGKBGFXWMG5 / **PIN:** bdmrSu7s
+- **Incluye:** 7 Adultos, 1 Joven (Sara), 1 Niño Gratis (Ethan)
+- **Lugar de encuentro:** Entrada de los Museos Vaticanos (Viale Vaticano).
+- **Costo Total:** **\.327.200 COP**
+- **Estado:** ✅ 100% Pagado el 27 Abr 2026 (Confirmado).
+
+
+**Visita al Coliseo, Foro y Palatino (GetYourGuide)**
+- **Fecha y Hora:** Jueves, 4 de junio de 2026, a las 13:00 hrs.
+- **Actividad:** Roma: Coliseo, Foro, Colina Palatina Entrada y Audioguía App
+- **Reserva (Código):** GYG7VKZHZ5HX / **PIN:** s/QK7ksR
+- **Incluye:** 4 Adultos (Edad: 18 a 99) - *Tickets móviles con audioguía.*
+- **Lugar de encuentro:** Piazza del Colosseo, 1 (Entrada para particulares frente al Arco de Constantino. Llegar a las 12:45).
+- **Costo Total:** **$443.200 COP** 
+- **Estado:** ✅ 100% Pagado el 27 Abr 2026 (Pendiente confirmación del proveedor local).
 
 ---
 
@@ -342,9 +376,9 @@
 - **Contacto:** +34 654 08 51 40
 - **Reserva Booking:** 6154.028.340 / **PIN:** 9623
 - **Detalle Alojamiento:** Apartamento de 2 dormitorios privado en planta baja para 9 personas.
-- **Costo Total:** **$776.600 COP** (~ 185.87 EUR), incluye IVA y suplemento de limpieza.
+- **Costo Total:** **$785.017 COP** (~ 185.87 EUR), incluye IVA y suplemento de limpieza. (Pagado el 23 Abr 2026 a las 21:56 con tarjeta *6039).
+- **Estado del Pago:** ✅ 100% Cobrado.
 - **Estado de Cancelación:** ⚠️ Estricto (No reembolsable).
-
 ---
 ### ⏳ PENDIENTE FINAL ÚNICO
 - **Bus a Beauvais:** Falta organizar el traslado (y comprar los boletos del bus o transporte) desde París (Distrito 15) hasta el aeropuerto de Beauvais (BVA) para la mañana del 9 de junio.
@@ -396,16 +430,15 @@
 | **12 Abr 2026** | **Hotel River View** | Fiumicino | 307.40 € | **$1.327.837 COP** | ✅ Cobrado (100% Cuartos) / Impuestos Allá |
 | **17 Abr 2026** | **2 Vans Privadas** | Fiumici → Civitavecchia | $425 USD | **$1.595.875 COP** * | ✅ 50% pagado / 50% allá |
 | **18 Abr 2026** | **Trenitalia** | Civitavecchia → Roma | 42.96 € | **$189.731 COP** | ✅ Cobrado (100%) |
-| **18 Abr 2026** | **Apartamento** | Roma | 590.00 € | **$2.400.000 COP** * | ⏳ Reserva lista / Pagar allá |
+  | **18 Abr 2026** | **Apartamento** | Roma | 590.00 € | **~$2.465.120 COP** * | ⏳ Pago anticipado automático pronto |
 | **18 Abr 2026** | **Anda Venice Hostel** | Venecia | 459.28 € | **$1.842.665 COP** | ✅ Cobrado (100%) |
 | **19 Abr 2026** | **Tren Italo** | Roma → Venecia | 296.10 € | **$1.281.143 COP** | ✅ Cobrado (100%) |
 | **20 Abr 2026** | **Vuelo easyJet** | Venecia → París |  -  | **$2.220.565 COP** | ✅ Cobrado (100%) |
 | **21 Abr 2026** | **Casa Badalona** | Barcelona | 1.299 € | **$5.414.182 COP** | ✅ Cobrado (100% el 21 Abr) |
   | **23 Abr 2026** | **Apt Tour Eiffel** | París |  902.00 € | **~$3.770.000 COP** * | ⏳ Pendiente pago x enlace al Host |
   | **23 Abr 2026** | **Vuelo Ryanair** | París → Madrid | 529.73 € | **$2.405.373 COP** | ✅ Cobrado (100%) |
-  | **23 Abr 2026** | **Apto Hello Home** | Madrid (Hortaleza) | 185.87 € | **$776.600 COP** | ⏳ Reserva lista / Cancelación no reembolsable |
-  | | **TOTAL EST. INTERNO** | | | **$25.672.978 COP** | |
-
+| **23 Abr 2026** | **Apto Hello Home** | Madrid (Hortaleza) | 185.87 € | **$785.017 COP** | ✅ Cobrado (100% el 23 Abr) |
+  | | **TOTAL EST. INTERNO** | | | **$25.744.035 COP** | |
 #### 💸 QUIEN LE DEBE A QUIEN
 
 | **Deudor** | **Acreedor** | **Concepto** | **Monto USD** | **Monto COP** | **Fecha Límite** |
