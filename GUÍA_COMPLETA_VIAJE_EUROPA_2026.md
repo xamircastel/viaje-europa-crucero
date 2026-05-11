@@ -255,11 +255,16 @@
 - **Pagador:** Xamir Francisco Castelblanco
 
 ### 🇮🇹 ROMA (2 al 4 de Junio)
-**Alojamiento: ❌ CANCELADO POR EL ANFITRIÓN**
-- **Estado:** La reserva anterior cerca del Vaticano (6651.154.208) fue cancelada.
-- **Próximos pasos:** Buscar y confirmar un nuevo alojamiento en Roma urgentemente.
-- **Fechas:** Check-in: 2 de Junio 2026 | Check-out: 4 de Junio 2026.
-- **Presupuesto estimado anterior:** $2.465.120 COP (590 EUR).
+**Alojamiento: Domus Risorgimento – Vista al Vaticano (Airbnb)**
+- **Check-in:** Martes 2 de Junio 2026 (16:00 a.m. en adelante)
+- **Check-out:** Jueves 4 de Junio 2026 (10:00 a.m.)
+- **Dirección:** Viale dei Bastioni di Michelangelo, 5, Roma, Lazio 00192, Italia
+- **Código de confirmación Airbnb:** HM932WCZ2X
+- **Anfitrión:** Mauro (Co-anfitriones: Benedetta, Gabriele)
+- **Alojamiento:** Airbnb Completo (Para 7 adultos y 2 niños)
+- **Costo Total:** **$3.718.120 COP**
+- **Estado de Pago:** ✅ Reserva confirmada. Primer pago realizado ($743.624 COP). Saldo ($2.974.496 COP) programado para cobro el 24 de Mayo de 2026 a tarjeta terminada en 9282.
+- **Política de Cancelación:** Gratuita antes del 1 de junio a las 4:00 p.m.
 
 ### 🏛️ ACTIVIDADES EN PARÍS
 
@@ -426,7 +431,7 @@
 | **12 Abr 2026** | **Hotel River View** | Fiumicino | 307.40 € | **$1.327.837 COP** | ✅ Cobrado (100% Cuartos) / Impuestos Allá |
 | **17 Abr 2026** | **2 Vans Privadas** | Fiumici → Civitavecchia | $425 USD | **$1.595.875 COP** * | ✅ 50% pagado / 50% allá |
 | **18 Abr 2026** | **Trenitalia** | Civitavecchia → Roma | 42.96 € | **$189.731 COP** | ✅ Cobrado (100%) |
-  | **18 Abr 2026** | **Apartamento** | Roma | **TBD** | **TBD** | ❌ Cancelado por Anfitrión (BUSCANDO NUEVO) |
+  | **11 May 2026** | **Airbnb** | Roma | N/A | **$3.718.120 COP** | ✅ 20% pagado ahora / 80% el 24 May |
 | **18 Abr 2026** | **Anda Venice Hostel** | Venecia | 459.28 € | **$1.842.665 COP** | ✅ Cobrado (100%) |
 | **19 Abr 2026** | **Tren Italo** | Roma → Venecia | 296.10 € | **$1.281.143 COP** | ✅ Cobrado (100%) |
 | **20 Abr 2026** | **Vuelo easyJet** | Venecia → París |  -  | **$2.220.565 COP** | ✅ Cobrado (100%) |
