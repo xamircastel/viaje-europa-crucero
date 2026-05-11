@@ -255,15 +255,11 @@
 - **Pagador:** Xamir Francisco Castelblanco
 
 ### 🇮🇹 ROMA (2 al 4 de Junio)
-**Alojamiento: Appartamento al Vaticano**
-- **Check-in:** 2 de Junio 2026 (15:00 - 21:00). **Aviso de llegada enviado:** 12:00 - 13:00 hrs.
-- **Check-out:** 4 de Junio 2026 (09:00 - 09:30)
-- **Dirección:** 87 Via Angelo Emo, Trionfale, 00136 Roma, Italia
-- **Reserva Booking:** 6651.154.208 / **PIN:** 3824
-- **Alojamiento:** Apartamento de 3 dormitorios (Para 7 adultos y 2 niños)
-- **Costo Booking:** **$2.465.120 COP** (590,00 EUR) - *Incluye IVA y el suplemento de limpieza. Ya incluye el impuesto municipal de aprox 401.120 COP ($44.57 EUR).*
-- **Estado:** ⏳ Pendiente. **Atención:** Las políticas indican *"Se te cargará por adelantado el importe total en cualquier momento. El anfitrión hará el cargo en la tarjeta que indicaste"*. Es No Reembolsable.
-- **Contacto:** +39 350 895 0463
+**Alojamiento: ❌ CANCELADO POR EL ANFITRIÓN**
+- **Estado:** La reserva anterior cerca del Vaticano (6651.154.208) fue cancelada.
+- **Próximos pasos:** Buscar y confirmar un nuevo alojamiento en Roma urgentemente.
+- **Fechas:** Check-in: 2 de Junio 2026 | Check-out: 4 de Junio 2026.
+- **Presupuesto estimado anterior:** $2.465.120 COP (590 EUR).
 
 ### 🏛️ ACTIVIDADES EN PARÍS
 
@@ -349,9 +345,9 @@
 - **Contacto:** +33 6 95 68 22 42
 - **Reserva Booking:** 6151.403.070 / **PIN:** 2612
 - **Detalle Alojamiento:** Apartamento de 2 dormitorios para 9 personas.
-- **Costo Total:** **~ 902.00 EUR** (~$3.770.000 COP).
+- **Costo Total:** **€ 902.00 EUR** (~$3.807.470 COP).
 - **Advertencia Depósito:** OJO, exigen un depósito por daños de 600 EUR (~$2.506.893 COP) a la llegada con Tarjeta de Crédito. Reembolsable 14 días post-checkout.
-- **Estado del Pago:** ⏳ Pendiente de pago mediante el enlace enviado por el anfitrión (Société Générale) por el chat de Booking.
+- **Estado del Pago:** ✅ 100% Pagado (Link YB Property Société Générale, $3.807.470 COP).
 
 ---
 #### ✈️ VUELO PARÍS → MADRID (Martes, 9 de Junio)
@@ -430,12 +426,12 @@
 | **12 Abr 2026** | **Hotel River View** | Fiumicino | 307.40 € | **$1.327.837 COP** | ✅ Cobrado (100% Cuartos) / Impuestos Allá |
 | **17 Abr 2026** | **2 Vans Privadas** | Fiumici → Civitavecchia | $425 USD | **$1.595.875 COP** * | ✅ 50% pagado / 50% allá |
 | **18 Abr 2026** | **Trenitalia** | Civitavecchia → Roma | 42.96 € | **$189.731 COP** | ✅ Cobrado (100%) |
-  | **18 Abr 2026** | **Apartamento** | Roma | 590.00 € | **~$2.465.120 COP** * | ⏳ Pago anticipado automático pronto |
+  | **18 Abr 2026** | **Apartamento** | Roma | **TBD** | **TBD** | ❌ Cancelado por Anfitrión (BUSCANDO NUEVO) |
 | **18 Abr 2026** | **Anda Venice Hostel** | Venecia | 459.28 € | **$1.842.665 COP** | ✅ Cobrado (100%) |
 | **19 Abr 2026** | **Tren Italo** | Roma → Venecia | 296.10 € | **$1.281.143 COP** | ✅ Cobrado (100%) |
 | **20 Abr 2026** | **Vuelo easyJet** | Venecia → París |  -  | **$2.220.565 COP** | ✅ Cobrado (100%) |
 | **21 Abr 2026** | **Casa Badalona** | Barcelona | 1.299 € | **$5.414.182 COP** | ✅ Cobrado (100% el 21 Abr) |
-  | **23 Abr 2026** | **Apt Tour Eiffel** | París |  902.00 € | **~$3.770.000 COP** * | ⏳ Pendiente pago x enlace al Host |
+  | **23 Abr 2026** | **Apt Tour Eiffel** | París |  902.00 € | **$3.807.470 COP**  | ✅ Pagado 100% (Link TG) |
   | **23 Abr 2026** | **Vuelo Ryanair** | París → Madrid | 529.73 € | **$2.405.373 COP** | ✅ Cobrado (100%) |
 | **23 Abr 2026** | **Apto Hello Home** | Madrid (Hortaleza) | 185.87 € | **$785.017 COP** | ✅ Cobrado (100% el 23 Abr) |
   | | **TOTAL EST. INTERNO** | | | **$25.744.035 COP** | |
